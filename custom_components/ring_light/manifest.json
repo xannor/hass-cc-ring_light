@@ -1,0 +1,8 @@
+{
+  "domain": "ring_light",
+  "name": "Ring Light Intgration",
+  "documentation": "https://community.home-assistant.io/t/ring-floodlight-cam-turn-floodlight-on-and-off/75761/28",
+  "dependencies": ["ring"],
+  "codeowners": [],
+  "requirements": []
+}
