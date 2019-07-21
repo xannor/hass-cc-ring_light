@@ -12,7 +12,7 @@ from datetime import timedelta
 import voluptuous as vol
 
 from homeassistant.helpers import config_validation as cv
-from . import (
+from homeassistant.components.ring import (
     ATTRIBUTION, DEFAULT_ENTITY_NAMESPACE, DATA_RING)
 from homeassistant.components.light import (
     Light, ATTR_BRIGHTNESS, ATTR_COLOR_TEMP, ATTR_HS_COLOR, ATTR_TRANSITION,
