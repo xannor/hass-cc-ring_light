@@ -1,3 +1,5 @@
+(Deprecated) This feature is now part of Home Assistant so this code is no longer needed. https://www.home-assistant.io/integrations/ring/
+
 # hass-ring_light
 Ring Light custom component for Home Assistant
 
